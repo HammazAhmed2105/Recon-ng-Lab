@@ -37,3 +37,8 @@ Kali Linux
 - <b>To begin the search we simply need to write “run” and hit enter. This will display WHOIS information regarding the chosen domain(Facebook.com in this case).</b>
 <img src="https://i.imgur.com/TxZMmZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<h2>TASK 4</h2>
+<b>Our next step is to search for any domains using ip address of facebook. We will be importing Hackertarget.com API’s module for that. </b>
+<b>Type back, hit enter to quit out of whois_pocs module. Use the command “marketplace search hackertarget”. We only have one module that is recon/domains-hosts/hackertarget.</b>
+<b></b>
+
