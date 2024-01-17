@@ -29,7 +29,8 @@ Kali Linux
 - <b>We will begin by gathering WHOIS information about a domain. WHOIS is publicly available hence we can perform it on any domain.</b>
 - <b> First thing we need to do is install modules from the market place. Use the command “marketplace search whois”</b>
 <img src="https://i.imgur.com/JFuddRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-- <b> We want to install the fourth option, which is “recon/domains-contacts/whois_pocs”. To do this, type “marketplace install recon/domains-contacts/whois_pocs”</b>
+
+- <b> We want to install the fourth option, which is “recon/domains-contacts/whois_pocs”. To do this, type “marketplace install recon/domains-contacts/whois_pocs” </b>
 - <b>Then we load the module by using  “modules load recon/domains-contacts/whois_pocs” </b>
 - <b> To begin searching using this module use the command “options set SOURCE facebook.com”. <b/>
 <img src="https://i.imgur.com/arXffAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
