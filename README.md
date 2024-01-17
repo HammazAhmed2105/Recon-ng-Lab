@@ -43,3 +43,5 @@ Kali Linux
 - <b>To install it use “marketplace install recon/domains-hosts/hackertarget” and navigate to the module using “modules load  econ/domains-hosts/hackertarget”.</b>
 <img src="https://i.imgur.com/m4wGQPr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+- <b>Lastly all we need to do is type “run” and hit enter. You will notice several domains from facebook.com appears.</b>
+<img src="https://i.imgur.com/fJhI8tj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
