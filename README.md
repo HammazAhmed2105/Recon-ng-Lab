@@ -17,5 +17,6 @@ Kali Linux
 <h2>TASK 1</h2>
 
 - <b> Fire up your kali linux as root. (Use sudo -I in the terminal).</b>
+- <b> •	Type in recon-ng as shown below. </b>
 
 
