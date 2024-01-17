@@ -34,3 +34,6 @@ Kali Linux
 - <b> To begin searching using this module use the command “options set SOURCE facebook.com”. <b/>
 <img src="https://i.imgur.com/arXffAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+- <b>To begin the search we simply need to write “run” and hit enter. This will display WHOIS information regarding the chosen domain(Facebook.com in this case).</b>
+<img src="https://i.imgur.com/TxZMmZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
