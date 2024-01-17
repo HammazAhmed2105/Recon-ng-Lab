@@ -12,6 +12,7 @@ Finding whois information on a target domain using recon-ng.
 WHOIS details encompass location, registration and expiration dates, contact particulars (email, phone numbers, etc.), and additional data related to domain names. This lab aims to employ recon-ng for the automated exploration and retrieval of such information.
 
 <h2>Lab Tool</h2>
+
 Kali Linux
 
 <h2>TASK 1</h2>
