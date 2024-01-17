@@ -22,21 +22,21 @@ Kali Linux
 
 <h2>TASK 2</h2>
 - <b> We can create our own lab and workspace using recon-ng based on our project needs. Use the command “workspaces create whois _recon”</b>
-<img src="https://i.imgur.com/f8BEDqM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f8BEDqM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <h2>TASK 3</h2>
 
 - <b>We will begin by gathering WHOIS information about a domain. WHOIS is publicly available hence we can perform it on any domain.</b>
 - <b> First thing we need to do is install modules from the market place. Use the command “marketplace search whois”</b>
-<img src="https://i.imgur.com/JFuddRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JFuddRt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - <b> We want to install the fourth option, which is “recon/domains-contacts/whois_pocs”. To do this, type “marketplace install recon/domains-contacts/whois_pocs” </b>
 - <b>Then we load the module by using  “modules load recon/domains-contacts/whois_pocs” </b>
 - <b> To begin searching using this module use the command “options set SOURCE facebook.com”. <b/>
-<img src="https://i.imgur.com/arXffAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/arXffAB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - <b>To begin the search we simply need to write “run” and hit enter. This will display WHOIS information regarding the chosen domain(Facebook.com in this case).</b>
-<img src="https://i.imgur.com/TxZMmZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TxZMmZF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <h2>TASK 4</h2>
 - <b>Our next step is to search for any domains using ip address of facebook. We will be importing Hackertarget.com API’s module for that.</b>
@@ -45,9 +45,9 @@ Kali Linux
 
 - <b>To install it use “marketplace install recon/domains-hosts/hackertarget” and navigate to the module using “modules load  econ/domains-hosts/hackertarget”.</b>
 
-<img src="https://i.imgur.com/m4wGQPr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m4wGQPr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 - <b>Lastly all we need to do is type “run” and hit enter. You will notice several domains from facebook.com appears.</b>
-<img src="https://i.imgur.com/fJhI8tj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fJhI8tj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 This information can be useful for an attacker who may be targeting Facebook. They can use this information to attack the various subdomains and their IP addresses associated with Facebook, as they may not all be equally secure, to find a way through their security.
