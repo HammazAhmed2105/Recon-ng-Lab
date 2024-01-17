@@ -17,7 +17,7 @@ Kali Linux
 <h2>TASK 1</h2>
 
 - <b> Fire up your kali linux as root. (Use sudo -I in the terminal).</b>
-- <b> •	Type in recon-ng as shown below. </b>
+- <b> Type in recon-ng as shown below. </b>
 <img src="https://i.imgur.com/uMpPYPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
