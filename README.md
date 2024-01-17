@@ -21,7 +21,7 @@ Kali Linux
 <img src="https://i.imgur.com/uMpPYPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>TASK 2</h2>
-- <b> We can create our own lab and workspace using recon-ng based on our project needs. Use the command “workspaces create whois _recon”. </b>
+- <b> We can create our own lab and workspace using recon-ng based on our project needs. Use the command “workspaces create whois _recon”</b>
 <img src="https://i.imgur.com/f8BEDqM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>TASK 3</h2>
