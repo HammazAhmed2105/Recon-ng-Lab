@@ -18,7 +18,7 @@ Kali Linux
 
 - <b> Fire up your kali linux as root. (Use sudo -I in the terminal).</b>
 - <b> Type in recon-ng as shown below. </b>
-<img src="https://i.imgur.com/uMpPYPV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uMpPYPV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 <h2>TASK 2</h2>
 - <b> We can create our own lab and workspace using recon-ng based on our project needs. Use the command “workspaces create whois _recon”</b>
