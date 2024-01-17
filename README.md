@@ -31,4 +31,5 @@ Kali Linux
 <img src="https://i.imgur.com/JFuddRt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 - <b> We want to install the fourth option, which is “recon/domains-contacts/whois_pocs”. To do this, type “marketplace install recon/domains-contacts/whois_pocs”</b>
 - <b>Then we load the module by using  “modules load recon/domains-contacts/whois_pocs” </b>
+- <b> To begin searching using this module use the command “options set SOURCE facebook.com”. <b/>
 
