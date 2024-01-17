@@ -49,3 +49,5 @@ Kali Linux
 
 - <b>Lastly all we need to do is type “run” and hit enter. You will notice several domains from facebook.com appears.</b>
 <img src="https://i.imgur.com/fJhI8tj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+This information can be useful for an attacker who may be targeting Facebook. They can use this information to attack the various subdomains and their IP addresses associated with Facebook, as they may not all be equally secure, to find a way through their security.
